@@ -1,10 +1,6 @@
 #
 ![Banner](banner.png)
 
-## Java Backend Developer | Spring Boot | REST APIs | MySQL
-
-I build scalable, secure, and efficient backend systems using Java and Spring Boot.
-
 ---
 
 ## 🛠 Tech Stack
@@ -21,14 +17,14 @@ I build scalable, secure, and efficient backend systems using Java and Spring Bo
 
 ## 📌 Pinned Projects
 
-- Conference Equipment Monitoring
-- Task Management API
-- E-Commerce Backend
-- URL Shortener
+- Todo Manager Application
+- Ecommerce-Backend
+- Car Rental System
+- Employee Management System
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://linkedin.com
-- Email: yourmail@example.com
+- LinkedIn: (https://www.linkedin.com/in/yash-bhoyar-b8367b2b5/)
+- Email: (yashbhoyar7105@gmail.com)
