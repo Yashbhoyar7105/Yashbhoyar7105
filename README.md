@@ -1,5 +1,3 @@
-# Hi there 👋 I'm Yash
-
 ![Banner](banner.png)
 
 ## Java Backend Developer | Spring Boot | REST APIs | MySQL
