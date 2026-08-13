@@ -25,5 +25,5 @@
 
 ## 📫 Connect With Me
 
-![LinkedIn](https://www.linkedin.com/in/yash-bhoyar-b8367b2b5/)
+![LinkedIn](https://www.linkedin.com/in/yash-bhoyar-b8367b2b5/)(bannergit.png)
 - Email: (yashbhoyar7105@gmail.com)
